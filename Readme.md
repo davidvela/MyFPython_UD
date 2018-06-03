@@ -7,3 +7,4 @@ this repository contains all my project / courses from Udacity:
 * DLN - Deep Learning Nanodegree Foundation
 * SCD - Probabillity - Bayes Rule! 
 
+archiving repository
